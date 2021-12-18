@@ -15,7 +15,7 @@ function App() {
          <div className="main">
              <h2>About</h2>
              <p className="interest">Creating responsive websites and designs
-                 in an array of programming langauges.</p>
+                 in an array of programming langauges is what i do best.</p>
 
              <h2>Interest</h2>
              <p className="interest">customer service is what am always being
